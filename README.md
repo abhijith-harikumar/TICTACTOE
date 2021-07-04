@@ -1,1 +1,1 @@
-# TICTACTOE game
+# TICTACTOE game using HTML CSS and JAVASCRIPT
